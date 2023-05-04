@@ -3,6 +3,7 @@
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
 			<item value="C:\AppRH"/>
+			<item value="C:\Users\JUCELIO COELHO\Downloads\Spring-Boot-tutorial-AppRh-master\ETAPA-02\AppRH"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

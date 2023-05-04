@@ -1,5 +1,6 @@
 package com.AppRH.AppRH.controllers;
 
+import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.validation.BindingResult;
@@ -13,8 +14,6 @@ import com.AppRH.AppRH.models.Candidato;
 import com.AppRH.AppRH.models.Vaga;
 import com.AppRH.AppRH.repository.CandidatoRepository;
 import com.AppRH.AppRH.repository.VagaRepository;
-
-import jakarta.validation.Valid;
 
 @Controller
 public class VagaController {
